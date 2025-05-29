@@ -18,4 +18,12 @@ print("Hello World")
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+# Adding task lists
+###### a task list starts with the syntax - [ ] and then the task list item. The formatting is specific!
+###### - [ X ] the X checks the task as completed 
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ###### In this markdown I added headings and a text, Yes! this is my first markdown ever. :)
